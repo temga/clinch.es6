@@ -1,0 +1,29 @@
+{
+  "name": "clinch.babel",
+  "version": "1.0.0",
+  "description": "ES6 processor for Clinch",
+  "main": "./lib/addon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/temga/clinch.es6.git"
+  },
+  "keywords": [
+    "clinch",
+    "babel",
+    "es6"
+  ],
+  "author": "Orlov Artem <temgaorlov93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/temga/clinch.es6/issues"
+  },
+  "homepage": "https://github.com/temga/clinch.es6",
+  "dependencies": {
+    "babel-core": "~6.3.21",
+    "babel": "~6.3.13",
+    "babel-preset-es2015": "~6.3.13"
+  }
+}
